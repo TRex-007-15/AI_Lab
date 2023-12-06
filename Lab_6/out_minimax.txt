@@ -1,0 +1,6 @@
+Visiting Sequence for Agent A:
+0, 1
+
+Visiting Sequence for Agent B:
+
+Winner: Agent Tie
